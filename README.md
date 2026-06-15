@@ -70,7 +70,6 @@ The Power BI dashboard includes:
 📈 Sales & Revenue Analysis
 👥 Customer Insights
 🏆 Top Performing Products/Categories
-📊 KPI Summary Cards
 📅 Time-Based Trend Analysis
 🎛 Interactive Filters and Slicers
 Key Results
